@@ -1,13 +1,6 @@
 # PortFolio
 This is my portfolio website that i have created by using html css and javascript. Here i have used some css animations to make it look beautifull and added some mediaqueries also to make it compatible for all screen all sizes.
 
-# Fastrack
-
-Fastrack is one of the leading wrist watch selling company and a sub brand of Titan, and we have tried to clone their E-commerce website.
-
-
-
-
 
 ## Color Reference
 
